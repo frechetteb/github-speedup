@@ -8,10 +8,10 @@
 - [项目简介](#项目简介)
 - [项目特点](#项目特点)
 - [快速开始](#快速开始)
-  - [Git clone 仓库加速](#Git clone 仓库加速)
-  - [Raw 加速](#Raw 加速)
-  - [Release 文件加速](#Release 文件加速)
-  - [Docker(OCI) 代理加速（Beta）](#Dockeroci-代理加速（Beta）)
+  - [Git clone 仓库加速](#Git-clone-仓库加速)
+  - [Raw 加速](#Raw-加速)
+  - [Release 文件加速](#Release-文件加速)
+  - [Docker(OCI) 代理加速（Beta）](#DockerOCI-代理加速Beta)
 - [项目相关](#项目相关)
   - [演示站](#演示站)
   - [TG 讨论群组](#tg-讨论群组)
@@ -41,7 +41,7 @@ GitHub 加速站项目是一款公益性质的、专为开发者打造的高性�
 - 🐚 **脚本加速**：支持 shell 脚本多层嵌套加速，提高下载效率。
 
 ## 快速开始
-### Git clone仓库加速
+### Git clone 仓库加速
 
 git clone 原链接（未加速）
 ```shell
@@ -63,7 +63,7 @@ raw 加速链接
 https://github-speedup.com/raw.githubusercontent.com/git/git/refs/tags/v2.48.1/README.md
 ```
 
-### Release 加速
+### Release 文件加速
 
 releases 原链接（未加速）
 ```shell
@@ -74,7 +74,7 @@ releases 加速链接
 wget https://github-speedup.com/github.com/git/git/archive/refs/tags/v2.49.0.zip
 ```
 
-### Docker(OCI) 代理加速（Beta）
+### Docker(OCI) 代理加速(Beta)
 ```shell
 docker pull alpine/git:v2.36.1
 docker pull github-speedup.com/alpine/git:v2.36.1
