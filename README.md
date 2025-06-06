@@ -1,4 +1,4 @@
-# GitHub 加速站免费开源项目
+# GitHub 加速器 - 公益免费的高性能 GitHub 资源访问开源解决方案
 
 ![GitHub Release](https://img.shields.io/github/v/release/WJQSERVER-STUDIO/ghproxy)
 ![Go Version](https://img.shields.io/github/go-mod/go-version/WJQSERVER-STUDIO/ghproxy)
