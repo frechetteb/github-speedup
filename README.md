@@ -41,7 +41,7 @@ GitHub 加速站开源项目是一个专为开发者打造的高性能GitHub加�
 ## 快速开始
 ### Git clone 仓库加速
 
-> **提示**：只需在原始 GitHub 链接前添加 `github-speedup.com/` 即可实现加速克隆。支持 HTTPS 协议，SSH 协议请前往演示站查看解决方法。
+> **提示**：只需在原始 GitHub 链接前添加 `github-speedup.com/` 即可实现加速克隆。支持 HTTPS 协议，需要 SSH 协议请前往演示站查看解决方法。
 
 **使用方法**：
 1. 复制您需要克隆的 GitHub 仓库地址
