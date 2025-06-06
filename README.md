@@ -19,7 +19,7 @@
 - [致谢](#致谢)
 
 ## 项目简介
-GitHub 加速站开源项目是一个专为开发者打造的高性能GitHub加速项目，公益性质、100%永久免费使用，提供全方位GitHub加速服务，包括 Git clone 克隆加速、Raw 文件实时加速、Release 文件高速下载以及 Docker 镜像代理加速（Beta），旨在解决 GitHub 资源访问慢、下载失败等问题。基于 Go 语言开发，性能卓越且资源占用极低，支持便捷自托管部署。作为国内领先的 GitHub 访问解决方案，已帮助数千开发者提升工作效率，彻底告别网络限制带来的开发困扰。
+GitHub 加速站开源项目是一个专为开发者打造的高性能 **GitHub 加速**项目，公益性质、100%永久**免费使用**，提供全方位GitHub加速服务，包括 **Git clone 克隆加速**、**Raw 文件实时加速**、**Release 文件高速下载**以及 Docker 镜像代理加速（Beta），旨在解决 GitHub 资源访问慢、下载失败等问题。基于 Go 语言开发，性能卓越且资源占用极低，支持便捷自托管部署。作为国内领先的 GitHub 访问解决方案，已帮助数千开发者提升工作效率，彻底告别网络限制带来的开发困扰。
 
 本项目后端基于 [ghproxy](https://github.com/WJQSERVER-STUDIO/ghproxy) 开发，特别鸣谢 @WJQSERVER-STUDIO 的开源贡献。
 
@@ -54,7 +54,7 @@ git clone 原始链接（未加速）
 ```shell
 git clone https://github.com/git/git.git
 ```
-git clone 加速链接
+**git clone 加速链接**
 ```shell
 git clone https://github-speedup.com/github.com/git/git.git
 ```
@@ -74,7 +74,7 @@ raw 原始链接（未加速）
 ```shell
 https://raw.githubusercontent.com/git/git/refs/tags/v2.48.1/README.md
 ```
-raw 加速链接
+**raw 加速链接**
 ```shell
 https://github-speedup.com/raw.githubusercontent.com/git/git/refs/tags/v2.48.1/README.md
 ```
@@ -94,7 +94,7 @@ Release 原始链接（未加速）
 ```shell
 wget https://github.com/git/git/archive/refs/tags/v2.49.0.zip
 ```
-Release 加速链接
+**Release 加速链接**
 ```shell
 wget https://github-speedup.com/github.com/git/git/archive/refs/tags/v2.49.0.zip
 ```
@@ -111,7 +111,7 @@ docker pull github-speedup.com/gcr.io/google-containers/coredns:1.3.0
 
 ### 演示站
 
-访问 [演示站](https://github-speedup.com/)， 体验加速效果。
+访问 **[演示站](https://github-speedup.com/)**， 体验**加速效果**。
 
 ### TG 讨论群组
 
