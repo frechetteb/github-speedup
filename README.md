@@ -41,7 +41,16 @@ GitHub 加速站开源项目是一个专为开发者打造的高性能GitHub加�
 ## 快速开始
 ### Git clone 仓库加速
 
-git clone 原链接（未加速）
+> **提示**：只需在原始 GitHub 链接前添加 `github-speedup.com/` 即可实现加速克隆。支持 HTTPS 协议，SSH 协议请前往演示站查看解决方法。
+
+**使用方法**：
+1. 复制您需要克隆的 GitHub 仓库地址
+2. 在地址前添加 `github-speedup.com/`
+3. 使用修改后的地址执行 git clone 命令
+
+**示例对比**：
+
+git clone 原始链接（未加速）
 ```shell
 git clone https://github.com/git/git.git
 ```
@@ -52,7 +61,16 @@ git clone https://github-speedup.com/github.com/git/git.git
 
 ### Raw 加速
 
-raw 原链接（未加速）
+> **提示**：只需在原始 Raw 链接前添加 `github-speedup.com/` 即可实现 Raw 加速。
+
+**使用方法**：
+1. 复制您需要加速的 Raw 地址
+2. 在地址前添加 `github-speedup.com/`
+3. 使用修改后的地址查看 Raw 内容
+
+**示例对比**：
+
+raw 原始链接（未加速）
 ```shell
 https://raw.githubusercontent.com/git/git/refs/tags/v2.48.1/README.md
 ```
@@ -63,7 +81,16 @@ https://github-speedup.com/raw.githubusercontent.com/git/git/refs/tags/v2.48.1/R
 
 ### Release 文件加速
 
-Release 原链接（未加速）
+> **提示**：只需在原始 Release 文件链接前添加 `github-speedup.com/` 即可实现 Release 文件加速。
+
+**使用方法**：
+1. 复制您需要加速的 Release 文件链接
+2. 在地址前添加 `github-speedup.com/`
+3. 使用修改后的地址加速下载 Release 文件
+
+**示例对比**：
+
+Release 原始链接（未加速）
 ```shell
 wget https://github.com/git/git/archive/refs/tags/v2.49.0.zip
 ```
