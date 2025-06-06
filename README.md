@@ -26,3 +26,42 @@ git clone https://ghproxy.example.com/https://github.com/user/repo.git
 # Docker(OCI) 代理
 docker pull gh.example.com/user/image
 docker pull gh.example.com/ghcr.io/user/image
+
+# GitHub加速站
+
+![GitHub加速站 Logo](https://your-repo-url/logo.png)
+
+## 项目简介
+
+GitHub加速站致力于为全球用户提供稳定、高效的GitHub访问加速解决方案。无论您身处网络受限地区，还是需要提升GitHub的访问速度，我们的加速站都能满足您的需求，帮助您畅享无障碍的开发体验。
+
+## 目录
+
+- [项目简介](#项目简介)
+- [功能特性](#功能特性)
+- [安装指南](#安装指南)
+  - [一键安装脚本](#一键安装脚本)
+  - [手动安装步骤](#手动安装步骤)
+- [使用说明](#使用说明)
+- [常见问题](#常见问题)
+- [贡献指南](#贡献指南)
+- [许可证](#许可证)
+- [联系我们](#联系我们)
+
+## 功能特性
+
+- **高速访问**：通过优化网络路径，大幅提升GitHub的访问速度，减少加载时间。
+- **稳定可靠**：多节点部署，确保服务的高可用性和稳定性，避免访问中断。
+- **简单易用**：提供一键安装脚本，轻松配置加速环境，无需复杂操作。
+- **安全保障**：采用加密传输技术，保障您的数据隐私和安全。
+- **跨平台支持**：兼容多种操作系统，包括Windows、macOS和Linux。
+
+## 安装指南
+
+### 一键安装脚本
+
+使用我们的**一键安装脚本**，只需在终端中执行以下命令，即可快速完成GitHub加速站的安装与配置：
+
+```shell
+curl -s https://your-repo-url/install.sh | bash
+
