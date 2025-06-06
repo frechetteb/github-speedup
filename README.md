@@ -23,7 +23,7 @@ GitHub 加速站开源项目是一个专为开发者打造的高性能GitHub加�
 
 本项目后端基于 [ghproxy](https://github.com/WJQSERVER-STUDIO/ghproxy) 开发，特别鸣谢 @WJQSERVER-STUDIO 的开源贡献。
 
-若您喜欢这个开源项目提供的免费 GitHub 加速服务，请给予点赞（Star）。
+若您喜欢这个开源项目提供的免费 GitHub 加速服务，请给予点赞（Star）支持。
 
 ## 项目特点
 
